@@ -1,1 +1,1 @@
-# the-hearty-slice
+# the-hearty-slice-landing-page
